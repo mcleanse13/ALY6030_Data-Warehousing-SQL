@@ -1,4 +1,4 @@
-Dimensional Modeling & SQL Analytics Project
+Dimensional Modeling and SQL Analytics for Hospital Intervention Programs
 
 In this project, I applied foundational concepts of dimensional modeling and SQL analytics to design and analyze a data warehouse scenario for a Hospital Nursing Intervention Pilot Program. Throughout the module, I learned how fact and dimension tables function within a star schema, how to distinguish facts from dimensions, and how schema structure supports high-performance analytical queries. I also worked with SQL CASE statements and window functions to efficiently summarize and interpret hospital performance data across multiple metrics. As part of the assignment, I modeled the relationships between hospital business attributes, bed types, and bed-level facts by identifying primary and foreign keys, selecting appropriate dimensions, and sketching a full star schema using MySQL Workbench.
 
